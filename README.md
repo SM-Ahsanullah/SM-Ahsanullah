@@ -14,6 +14,6 @@ Visualization: Adobe Photoshop, Premiere Pro
 - 🔭 I’m currently working on improving AI Models for vehicle detection
 - 🌱 I’m currently learning GeoAI tools
 - 👯 I’m looking to collaborate on any kind of researc that is related with LULC, Transportation, Geodatabase, Spatial Analysis
-- 📫 How to reach me: spacecowboi@duck.com
+- 📫 How to reach me: sm.ahsanullah.career@gmail.com
 
 Feel free to reach out for collaboration or just to chat about geospatial technologies and urban analytics!
