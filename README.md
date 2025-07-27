@@ -15,5 +15,6 @@ Visualization: Adobe Photoshop, Premiere Pro
 - 🌱 I’m currently learning GeoAI tools
 - 👯 I’m looking to collaborate on any kind of researc that is related with LULC, Transportation, Geodatabase, Spatial Analysis
 - 📫 How to reach me: sm.ahsanullah.career@gmail.com
+- 🔭 Look out for my updates on my website smahsanullah.com(beta)
 
 Feel free to reach out for collaboration or just to chat about geospatial technologies and urban analytics!
